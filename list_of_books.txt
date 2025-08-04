@@ -1,0 +1,17 @@
+book_list = [
+    "To Kill a Mockingbird",
+    "1984",
+    "The Great Gatsby",
+    "The Catcher in the Rye",
+    "Pride and Prejudice",
+    "The Lord of the Rings",
+    "Harry Potter and the Sorcerer's Stone",
+    "The Hobbit",
+    "Fahrenheit 451",
+    "Jane Eyre",
+    "The Alchemist",
+    "The Chronicles of Narnia",
+    "Animal Farm",
+    "Brave New World",
+    "Wuthering Heights"
+]
